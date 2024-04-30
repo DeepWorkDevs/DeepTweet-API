@@ -1,4 +1,4 @@
-<img  src="https://cdn.imgchest.com/files/84apc3xxbe4.jpeg"  width="550">
+<img  src="https://cdn.imgchest.com/files/84apc3xxbe4.jpeg"  width="600">
 
 # DeepTweet-API
 
